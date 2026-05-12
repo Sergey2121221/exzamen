@@ -79,12 +79,12 @@ class MainActivity : ComponentActivity() {
 <br><br>
 
 <b>Значение по умолчанию</b><br>
-<img src="./exz16ip235/images/Hell.jpg" width="250"/>
+<img src="./exz16ip235/images/Hell.png" width="250"/>
 
 <br>Плюс 20%<br>
 
 <b></b><br>
-<img src="./exz16ip235/images/ADD.jpg" width="250"/>
+<img src="./exz16ip235/images/ADD.png" width="250"/>
 
 <br>Минус 10%<br>
 
