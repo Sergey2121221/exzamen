@@ -22,6 +22,5 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "exz16ip235"
+rootProject.name = "ekz_ps"
 include(":app")
- 

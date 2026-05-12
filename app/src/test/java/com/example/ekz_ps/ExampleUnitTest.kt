@@ -1,4 +1,4 @@
-package com.example.exz16ip235
+package com.example.ekz_ps
 
 import org.junit.Test
 

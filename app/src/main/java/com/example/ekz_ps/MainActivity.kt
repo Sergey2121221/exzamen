@@ -1,5 +1,3 @@
-package com.example.ekz_dmr
-
 import android.os.Bundle
 import androidx.activity.ComponentActivity
 import androidx.activity.compose.setContent
@@ -25,9 +23,11 @@ class MainActivity : ComponentActivity() {
                 horizontalAlignment = Alignment.CenterHorizontally
             ) {
 
+
                 Text(text = "Прогресс: ${(progress * 100).toInt()}%")
 
                 Spacer(modifier = Modifier.height(16.dp))
+
 
                 LinearProgressIndicator(
                     progress = progress,
@@ -35,6 +35,7 @@ class MainActivity : ComponentActivity() {
                 )
 
                 Spacer(modifier = Modifier.height(24.dp))
+
 
                 Row {
                     Button(onClick = {
