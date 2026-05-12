@@ -74,21 +74,21 @@ class MainActivity : ComponentActivity() {
 <div align="center">
 
 <b></b><br>
-<img src="./images/1.png" width="250"/>
+<img src="./images/Hell.png" width="250"/>
 
 <br><br>
 
 <b>Значение по умолчанию</b><br>
-<img src="./exz16ip235/images/1.jpg" width="250"/>
+<img src="./exz16ip235/images/Hell.jpg" width="250"/>
 
 <br>Плюс 20%<br>
 
 <b></b><br>
-<img src="./exz16ip235/images/2.jpg" width="250"/>
+<img src="./exz16ip235/images/ADD.jpg" width="250"/>
 
 <br>Минус 10%<br>
 
 <b>Сброс</b><br>
-<img src="./exz16ip235/images/3.jpg" width="250"/>
+<img src="./exz16ip235/images/DEVIOS.jpg" width="250"/>
 
 </div>
