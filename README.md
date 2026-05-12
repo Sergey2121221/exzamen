@@ -89,6 +89,6 @@ class MainActivity : ComponentActivity() {
 <br>Минус 10%<br>
 
 <b>Сброс</b><br>
-<img src="./images/DEVIOS.jpg" width="250"/>
+<img src="./images/DEVIOS.png" width="250"/>
 
 </div>
